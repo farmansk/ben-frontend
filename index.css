@@ -1,1139 +1,66 @@
 *{
-  box-sizing: border-box;
-  margin: 0;
-  font-family: 'Gloria Hallelujah';
-  padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Gloria Hallelujah';
+    padding: 0;
+}
+
+body{
+    background-color: #6246c7;
+}
+.a2
+.container{
+    width: 100vw;
+    height: 100vh;
 }
 
 
-.cat-dog-home-page .catdog {
-    position: absolute;
-    left: 68px;
-    top: 54px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 32px;
-    text-transform: uppercase;
-    color:#262221;
-  }
-  .cat-dog-home-page .step-4 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color:#FFFFFF;
-  }
-  .cat-dog-home-page .catdog-10 {
-    background-image: url('/images/dog_start.png');
-    width: 484px;
-    height: 379px;
-  }
-  .cat-dog-home-page .group-4 {
-    position: relative;
-    margin-bottom: 81px;
-    display: flex;
-    padding-top: 15px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-8 {
-    border-radius: 100px;
-    background: #FFFFFF;
-    position: absolute;
-    left: 24px;
-    top: 0px;
-    display: flex;
-    padding: 10px 12.3px 0 12.3px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .contact-address {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 14px;
-    color: #6045C6;
-  }
-  .cat-dog-home-page .fffffffffffffffffffffffffffffffffff {
-    margin: 16px 52.6px 0 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .copy {
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .frame-13 {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    align-self: flex-start;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-12 {
-    margin-bottom: 80px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-81 {
-    border-radius: 100px;
-    background: #FFFFFF;
-    margin: 0 0 20px 0px;
-    display: flex;
-    padding: 10px 12.1px 0 12.1px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .token-supply {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #DB5C1E;
-  }
-  .cat-dog-home-page .container {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .about {
-    margin-right: 20px;
-    width: 87px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #262221;
-  }
-  .cat-dog-home-page .no-taxes-lp-is-burnt-contract-renounced {
-    opacity: 0.8;
-    margin-left: 0px;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 1.8;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .group-6 {
-    border-radius: 2px;
-    position: absolute;
-    right: 155.9px;
-    bottom: 61.9px;
-    width: 480.1px;
-    height: 480.1px;
-  }
-  .cat-dog-home-page .rectangle-61 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-67 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-72 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-63 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-68 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-73 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .how-to-buy {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #262221;
-  }
-  .cat-dog-home-page .group-8 {
-    border-radius: 2px;
-    margin-right: 16px;
+.inner_container_2{
+    /* margin: 20px 126px 83px 96px; */
+    margin: 0 40px;
     display: flex;
     flex-direction: row;
-    width: 616px;
+    justify-content: space-around;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .rectangle-76 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    margin-right: 16px;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-77 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-64 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-69 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-74 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-66 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-70 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-75 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .group-9 {
-    border-radius: 2px;
-    display: flex;
-    flex-direction: row;
-    width: 616px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .memes {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #262221;
-  }
-  .cat-dog-home-page .rectangle-78 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    margin-right: 16px;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .rectangle-79 {
-    border-radius: 2px;
-    border: 2px solid var(--black, #262221);
-    background: #FFFFFF;
-    width: 300px;
-    height: 300px;
-  }
-  .cat-dog-home-page .catdog-1 {
-    position: absolute;
-    left: 22px;
-    top: 24px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 32px;
-    text-transform: uppercase;
-    color: #262221;
-  }
-  .cat-dog-home-page .connect-wallet {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 16px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .container-1 {
-    margin-bottom: 28px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 24px;
-    color: #262221;
-  }
-  .cat-dog-home-page .line-1 {
-    background: #262221;
-    margin-bottom: 62px;
-    width: 1440px;
-    height: 2px;
-  }
-  .cat-dog-home-page .frame-7 {
-    margin: 19px 0 6px 0;
-    display: flex;
-    flex-direction: row;
-    width: 484px;
-    height: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-3 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 32px;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .catdog-2 {
-    background-image: url('/images/dog_start.png');
-    width: 622px;
-    height: 489px;
-    background-repeat: no-repeat;
-  }
-  .cat-dog-home-page .fi-733579 {
-    position: absolute;
-    right: 11px;
-    bottom: 14px;
-    display: flex;
-    width: 32px;
-    height: 26px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-2 {
-    width: 32px;
-    height: 26px;
-  }
-  .cat-dog-home-page .frame-4 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 32px;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .fi-2111644 {
-    position: absolute;
-    left: 11px;
-    top: 13.7px;
-    display: flex;
-    width: 32px;
-    height: 26.7px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-3 {
-    width: 32px;
-    height: 26.7px;
-  }
-  .cat-dog-home-page .frame-5 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 32px;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .dextools-1 {
-    position: absolute;
-    left: 13px;
-    bottom: 11px;
-    display: flex;
-    width: 27.8px;
-    height: 32px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .catdog-9 {
-    background-image: url('/images/dog_start.png');
-    margin-right: 128px;
-    background-size: cover;
-  }
-  .cat-dog-home-page .vector-4 {
-    width: 27.8px;
-    height: 32px;
-  }
-  .cat-dog-home-page .frame-6 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 32px;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .mask-group {
-    position: absolute;
-    right: 10.9px;
-    bottom: 11px;
-    width: 32.1px;
-    height: 32px;
-  }
-  .cat-dog-home-page .group-2 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 32px;
-    display: flex;
-    padding: 11px 10px 11px 11px;
-    width: 54px;
-    height: 54px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .mask-group-1 {
-    width: 33px;
-    height: 32px;
-  }
-  .cat-dog-home-page .catdog-3 {
-    background: url('/images/right_dog.png');
-    margin: 83px 0 63px 0;
-    width: 318px;
-    height: 487px;
-  }
-  .cat-dog-home-page .group-3 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    display: flex;
-    padding: 8px 11px 8.9px 11px;
-    width: 54px;
-    height: 54px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .group-1 {
-    width: 32px;
-    height: 37.1px;
-  }
-  .cat-dog-home-page .group-7 {
-    position: relative;
-    padding: 0 24px 47px 24px;
-    width: 484px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .catdog-4 {
-    background: url('/images/left_dog.png');
-    margin: 83px 0 63px 0;
-    width: 318px;
-    height: 487px;
-  }
-  .cat-dog-home-page .frame-82 {
-    border-radius: 100px;
-    background: #FFFFFF;
-    position: relative;
-    display: flex;
-    padding: 10px 12.3px 0 12.3px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .contact-address-1 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 14px;
-    color: #6045C6;
-  }
-  .cat-dog-home-page .fffffffffffffffffffffffffffffffffff-1 {
-    position: absolute;
-    left: 24px;
-    bottom: 0px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .rectangle-582 {
-    border-radius: 1px;
-    background: #FFFFFF;
-    position: absolute;
-    top: 9px;
-    right: 8px;
-    width: 48px;
-    height: 48px;
-  }
-  .cat-dog-home-page .copy-1 {
-    position: relative;
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .catdog-is-ameme-coin-with-no-intrinsic-value-or-expectation-of-financial-return-there-is-no-formal-team-or-roadmap-the-coin-is-completely-useless-and-for-entertainment-purposes-only {
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 1.8;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .arrows-down-up {
-    display: flex;
-    width: 22px;
-    height: 22px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-2 {
-    position: relative;
-    margin: 36px 113.5px 37px 0;
-    display: flex;
-    padding-right: 18.5px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-11 {
-    width: 22px;
-    height: 22px;
-  }
-  .cat-dog-home-page .frame-83 {
-    border-radius: 100px;
-    background: #262221;
-    display: flex;
-    padding: 10px 12.4px 0 12.4px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .connect-wallet-1 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 14px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .frame-14 {
-    border-radius: 100px;
-    border: 1.2px solid #262221;
-    display: flex;
-    flex-direction: row;
-    padding: 8.8px 10.9px 0 13.3px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .sliders-horizontal {
-    margin: 0.1px 6.6px 8.9px 0;
-    display: flex;
-    width: 15px;
-    height: 11.9px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-12 {
-    width: 15px;
-    height: 11.9px;
-  }
-  .cat-dog-home-page .container-2 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 14px;
-    color: #262221;
-  }
-  .cat-dog-home-page .catdog-2 {
-    margin-bottom: 100px;
-    display: inline-block;
-    align-self: flex-start;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .arrow-clockwise {
-    display: flex;
-    width: 16.3px;
-    height: 15px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-13 {
-    width: 16.3px;
-    height: 15px;
-  }
-  .cat-dog-home-page .frame-15 {
-    margin: 0 3px 5px 3px;
-    display: flex;
-    flex-direction: row;
-    align-self: flex-start;
-    width: auto;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .currency-dollar-simple {
-    margin: 0 13.4px 12px 0;
-    display: flex;
-    width: 26px;
-    height: 26px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-14 {
-    width: 26px;
-    height: 26px;
-  }
-  .cat-dog-home-page .usdc {
-    margin: 6px 12.7px 0 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 16px;
-    color: #262221;
-  }
-  .cat-dog-home-page .caret-down {
-    margin: 11.5px 0 22.8px 0;
-    display: flex;
-    width: 7.5px;
-    height: 3.8px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .the-meme-coin-to-rule-all-the-meme-coins-bringing-the-best-of-both-worlds-fuck-the-frog-coins {
-    opacity: 0.8;
-    position: absolute;
-    left: 50%;
-    top: 113px;
-    translate: -50% 0;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .vector-15 {
-    width: 7.5px;
-    height: 3.8px;
-  }
-  .cat-dog-home-page .frame-17 {
-    margin-bottom: 40px;
-    display: flex;
-    flex-direction: row;
-    align-self: flex-start;
-    width: auto;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .currency-dollar-simple-1 {
-    margin: 0 10.4px 9px 0;
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .sol {
-    margin: 9px 12.7px 0 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 16px;
-    color: #262221;
-  }
-  .cat-dog-home-page .frame-71 {
+    /* min-width: 300px; */
+}
+
+.icons_css{
     margin-bottom: 56px;
     display: flex;
     flex-direction: row;
     column-gap: 32px;
-    width: 484px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .caret-down-1 {
-    margin: 14.5px 0 22.8px 0;
-    display: flex;
-    width: 7.5px;
-    height: 3.8px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-19 {
-    width: 7.5px;
-    height: 3.8px;
-  }
-  .cat-dog-home-page .frame-16 {
-    margin-top: 35px;
+    max-width: 400px;
+    margin-top: 20px;
+}
+.icon_circles{
+    border-radius: 50px;
+    background: #FFFFFF;
+    position: relative;
+    width: 300px;
+
+    height: 50px;
+}
+
+.container-31 {
+    border-radius: 2px;
+    border: 2px solid #FFFFFF;
+    position: relative;
     display: flex;
     flex-direction: row;
+    padding: 8px 8px 0 24px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .wallet {
-    margin: 0 10.2px 9px 0;
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .usdc-1 {
-    margin-top: 9px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 16px;
-    color: #262221;
-  }
-  .cat-dog-home-page .frame-18 {
-    display: flex;
-    flex-direction: row;
-    align-self: flex-start;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-31 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .wallet-1 {
-    margin: 0 10.3px 9px 0;
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .sol-1 {
-    margin-top: 9px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 16px;
-    color: #262221;
-  }
-  .cat-dog-home-page .fi-7335791 {
-    position: absolute;
-    right: 11px;
-    bottom: 14px;
-    display: flex;
-    width: 32px;
-    height: 26px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-24 {
-    width: 32px;
-    height: 26px;
-  }
-  .cat-dog-home-page .frame-41 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .fi-21116441 {
-    position: absolute;
-    left: 11px;
-    top: 13.7px;
-    display: flex;
-    width: 32px;
-    height: 26.7px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page {
-    background: #6045C6;
-    display: flex;
-    padding: 28px 0 46px 0;
-    width: 1440px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-25 {
-    width: 32px;
-    height: 26.7px;
-  }
-  .cat-dog-home-page .frame-51 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .dextools-11 {
-    position: absolute;
-    left: 13px;
-    bottom: 11px;
-    display: flex;
-    width: 27.8px;
-    height: 32px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-26 {
-    width: 27.8px;
-    height: 32px;
-  }
-  .cat-dog-home-page .frame-61 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    width: 54px;
-    height: 54px;
-  }
-  .cat-dog-home-page .mask-group-2 {
-    position: absolute;
-    right: 10.9px;
-    bottom: 11px;
-    width: 32.1px;
-    height: 32px;
-  }
-  .cat-dog-home-page .group-21 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    display: flex;
-    padding: 11px 10px 11px 11px;
-    width: 54px;
-    height: 54px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .mask-group-3 {
-    width: 33px;
-    height: 32px;
-  }
-  .cat-dog-home-page .group-31 {
-    border-radius: 27px;
-    background: #FFFFFF;
-    position: relative;
-    display: flex;
-    padding: 8px 11px 8.9px 11px;
-    width: 54px;
-    height: 54px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .group-11 {
-    width: 32px;
-    height: 37.1px;
-  }
-  .cat-dog-home-page .group-41 {
+    max-width: 400px;
+}
+.group-41{
     position: relative;
     display: flex;
     padding-top: 15px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .frame-84 {
-    border-radius: 100px;
-    background: #FFFFFF;
-    position: absolute;
-    left: 24px;
-    top: 0px;
-    display: flex;
-    padding: 10px 12.3px 0 12.3px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .contact-address-2 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 14px;
-    color: #6045C6;
-  }
-  .cat-dog-home-page .fffffffffffffffffffffffffffffffffff-2 {
-    margin: 16px 52.6px 0 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .copy-2 {
-    width: 32px;
-    height: 32px;
-  }
-  .cat-dog-home-page .union {
-    box-shadow: 6px 6px 0px 0px #262221;
-    position: absolute;
-    left: 50%;
-    top: 3455px;
-    translate: -50% 0;
-    width: 1384px;
-    height: 705px;
-  }
-  .cat-dog-home-page .frame-32 {
-    position: relative;
-    display: flex;
-    padding-right: 0.7px;
-    width: 626.7px;
-    height: 633px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .about-us {
-    position: relative;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .tired-of-the-endless-parade-of-dog-and-cat-coins-cluttering-up-ct-meet-catdog-the-ultimate-blend-of-feline-agility-and-canine-loyalty-merging-the-best-of-both-worlds-into-one-unstoppable-meme-while-weve-been-overrun-with-one-dimensional-pet-coins-catdog-steps-in-as-the-true-hybrid-ready-to-shake-things-up-catdog-is-not-just-another-token-its-amemevolution-with-amission-to-unite-cat-and-dog-devotees-under-one-banner-were-creating-acommunity-like-no-other-launching-stealth-with-no-presale-zero-taxes-lp-burnt-and-contract-renounced-catdog-is-for-the-culture {
-    opacity: 0.8;
-    position: absolute;
-    left: 50%;
-    bottom: 0px;
-    translate: -50% 0;
-    text-align: center;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .frame-10 {
-    margin: 6px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .get-asolana-wallet {
-    margin-bottom: 12px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    text-transform: uppercase;
-    color: #262221;
-  }
-  .cat-dog-home-page .download-phantom-wallet-or-your-wallet-of-your-choice-from-the-app-store-or-google-play-store-for-free-desktop-users-download-the-google-chrome-extension {
-    opacity: 0.8;
-    margin: 0 44.7px 34px 0;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #262221;
-  }
-  .cat-dog-home-page .frame-11 {
-    position: relative;
-    margin-right: 6.1px;
-    width: 478px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .image-2 {
-    border-radius: 14px;
-    background: url('/assets/images/image_2.png') 50% / cover no-repeat;
-    margin-right: 48px;
-    width: 96px;
-    height: 96px;
-  }
-  .cat-dog-home-page .image-3 {
-    background: url('/assets/images/image_3.png') 50% / cover no-repeat;
-    width: 96px;
-    height: 96px;
-  }
-  .cat-dog-home-page .mask-group-4 {
-    position: absolute;
-    right: 0px;
-    bottom: 16px;
-    width: 190px;
-    height: 64px;
-  }
-  .cat-dog-home-page .ellipse-52 {
-    border-radius: 48px;
-    background: #FFFFFF;
-    position: absolute;
-    left: 50%;
-    top: 326px;
-    translate: -50% 0;
-    width: 96px;
-    height: 96px;
-  }
-  .cat-dog-home-page .play {
-    position: relative;
-    display: flex;
-    width: 22px;
-    height: 26px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .vector-33 {
-    width: 22px;
-    height: 26px;
-  }
-  .cat-dog-home-page .community {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .renounced-contract {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .no-taxes {
-    margin: 0 9.3px 0 10.3px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .burnt-lp {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 40px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .catdog-5 {
-    background-image: url('/images/dog_start.png');
-    margin: 0 1px 48px 0;
-    background-size: cover;
-    height: 150px;
-    width: 200px; 
-  }
-  .cat-dog-home-page .catdog-7 {
-    background-image: url('/images/dog_start.png');
-    background-size: cover;
-    height: 150px;
-    width: 200px;
-  }
-  .cat-dog-home-page .catdog-6 {
-    background-image: url('/images/dog_start.png');
-    margin-bottom: 48px;
-    background-size: cover;
-    height: 150px;
-    width: 200px;
-  }
-  .cat-dog-home-page .catdog-8 {
-    background-image: url('/images/dog_start.png');
-    /* margin-bottom: 48px; */
-    background-size: cover;
-    height: 150px;
-    width: 200px;
-  }
-  .cat-dog-home-page .how-to-buy-1 {
-    margin-bottom: 31px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .memes-1 {
-    margin: 0 0 21px 1px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .buy-now {
-    margin-bottom: 4px;
-    display: inline-block;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .tokenomics {
-    margin-bottom: 65px;
-    display: inline-block;
-    align-self: flex-end;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 64px;
-    text-transform: uppercase;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .step-1 {
-    margin-right: 20px;
-    width: 140.3px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #262221;
-  }
-  .cat-dog-home-page .frame-9 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 302.2px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .step-2 {
-    margin-right: 20px;
-    width: 99.8px;
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .step-3 {
-    overflow-wrap: break-word;
-    font-family: 'Gloria Hallelujah';
-    font-weight: 400;
-    font-size: 20px;
-    color: #FFFFFF;
-  }
-  .cat-dog-home-page .container {
-    margin: 54px 51.1px 20px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-1 {
-    background: rgba(255, 255, 255, 0.1);
-    position: relative;
-    margin: 0 28px 120px 28px;
-    display: flex;
-    padding: 361px 0 361px 6px;
-    width: 1384px;
-    height: 748px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-2 {
-    margin-right: 174px;
-    display: flex;
-    flex-direction: row;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-3 {
-    margin-bottom: 69px;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 1116px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-4 {
+    min-width: 400px;
+}
+.container-26{
     border-radius: 1px;
     background: #FFFFFF;
     position: relative;
@@ -1143,59 +70,125 @@
     width: 48px;
     height: 48px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-5 {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    width: 463px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-6 {
-    margin: 0 96px 16px 96px;
-    display: flex;
-    flex-direction: row;
-    column-gap: 16px;
-    width: 1248px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-7 {
-    border-radius: 2px;
-    border: 2px solid #262221;
+}
+
+.input-fff{
+    margin: 16px 52.6px 0 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Gloria Hallelujah';
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.copy{
+    width: 32px;
+    height: 32px;
+}
+.contact-address-2{
+    overflow-wrap: break-word;
+    font-family: 'Gloria Hallelujah';
+    font-weight: 400;
+    font-size: 14px;
+    color: #6045C6;
+}
+
+.frame-84{
+    border-radius: 100px;
     background: #FFFFFF;
-    position: relative;
-    margin-bottom: 28px;
+    position: absolute;
+    left: 24px;
+    top: 0px;
     display: flex;
-    flex-direction: column;
-    padding: 18px 0 9px 18px;
-    width: 'fit-content';
+    padding: 10px 12.3px 0 12.3px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-8 {
-    margin: 0 141px 240px 141px;
+}
+/* .catdog-2{
+    width: 500px;
+    height: 500px;
+} */
+.left_container{
+    max-width: 450px;
+    height: 516px;
+    color: white;
+}
+
+.image_dog{
+    /* min-width: 500px; */
+    /* height: 389px; */
+}
+.pi-chart-mobil-view
+
+.section3 {
+    height: 700px;
+    background-color: #7158cc;
     display: flex;
-    flex-direction: row;
-    align-self: flex-start;
-    width: 'fit-content';
-    box-sizing: border-box;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    margin: 0 30px;
+    margin-bottom: 60px;
   }
-  .cat-dog-home-page .container-9 {
-    margin: 0 84.1px 125px 84.1px;
+  
+  .content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ellipse-52 {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    border-radius: 48px;
+    background: #FFFFFF;
+    width: 96px;
+    height: 96px;
+  }
+  
+  .vector-33 {
+    width: 50%; /* Adjust as necessary */
+    height: auto; /* To maintain aspect ratio */
+  }
+  
+  
+.img-text-img{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-self: flex-start;
-    width: 462.5px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-10 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-11 {
+}
+
+.section4{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.paragraph_view{
+    margin-top: 60px;
+    max-width: 534px;
+    text-align: center;
+
+}
+.paragraph_view p{
+    margin-top: 20px;
+    
+    font-size: 15px;
+    color: white;
+}
+.h1_section4{
+    font-size: 54px;
+    color: #fff;
+    font-weight: 600;
+    text-align: center;
+}
+.center_about{
+    text-align: center;
+}
+
+.left_dog_css{
+    height: 417px;
+    width: 318px;
+}
+.container-11{
     background: #E96384;
     position: relative;
     margin-bottom: 120px;
@@ -1205,248 +198,826 @@
     padding: 45px 0;
     width: 1440px;
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-12 {
-    margin-bottom: 30px;
+}
+
+.img_doggy{
+    height: 173px;
+    width: 220px;
+}
+.top_line{
     display: flex;
     flex-direction: row;
-    column-gap: 10px;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-13 {
-    margin: 0 96px 96px 96px;
+    justify-content: space-around;
+    margin: 40px;
+}
+.diff_container{
+    background-color: #e86183;
+    padding: 30px;
+}
+.inner_section4{
+    text-align: center;
+    color: white;
+    font-weight: 400;
+    font-size: 20px;
+}
+.for_gap{
+    gap: 10px;
+    list-style: none;
+    cursor: pointer;
+}
+.logo{
+    margin-left: 20px;
+    cursor: pointer;
+}
+hr{
+    color: white;
+    object-fit: fill;
+
+}
+
+.flex_for_gap{
     display: flex;
-    flex-direction: row;
-    width: 1248px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-14 {
-    margin: 0 96px 16px 96px;
+    gap: 30px;
+
+}
+.icon_setter{
+    margin-top:  5px;
+    padding: 5px;
+    height: 40px;
+    width: 40px;
+}
+span{
+    gap: 30px;
+}
+
+/* Default styles */
+.section3 {
+    height: 700px;
+    background-color: #7158cc;
     display: flex;
-    flex-direction: row;
-    column-gap: 16px;
-    width: 1248px;
-    box-sizing: border-box;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    margin: 0 30px;
+    margin-bottom: 60px;
   }
-  .cat-dog-home-page .container-15 {
+  
+  .content {
+    display: flex;
+    align-items: center;
+  }
+  
+  .ellipse-52 {
+    display: flex;
+    justify-content: center; /* Horizontally center the content */
+    align-items: center; /* Vertically center the content */
+    border-radius: 48px;
+    background: #FFFFFF;
+    width: 96px;
+    height: 96px;
+  }
+  
+  .vector-33 {
+    width: 50%; /* Adjust as necessary */
+    height: auto; /* To maintain aspect ratio */
+  }
+  
+  /* Media queries for tablet view */
+  @media screen and (max-width: 768px) {
+    .section3 {
+      height: auto; /* Adjust height as necessary for tablet */
+      padding: 20px; /* Add padding for spacing */
+    }
+    
+    .ellipse-52 {
+      width: 64px; /* Adjust size for tablet */
+      height: 64px; /* Adjust size for tablet */
+    }
+  
+    .vector-33 {
+      width: 40%; /* Adjust as necessary */
+    }
+  }
+  
+  /* Media queries for mobile view */
+  @media screen and (max-width: 480px) {
+    .section3 {
+      height: auto; /* Adjust height as necessary for mobile */
+      padding: 10px; /* Add padding for spacing */
+    }
+    
+    .ellipse-52 {
+      width: 48px; /* Adjust size for mobile */
+      height: 48px; /* Adjust size for mobile */
+    }
+  
+    .vector-33 {
+      width: 30%; /* Adjust as necessary */
+    }
+  }
+  
+.nav_bar_container {
+    background-color: #fff;
+    display: flex;
+    flex-direction: column; /* Change to column layout for mobile */
+    box-shadow: 6px 6px 0px 0px #262221;
+    border-radius: 2px;
+    border: 2px solid #262221;
+    position: relative;
+    margin: 0 20px 20px; /* Adjust margin for better spacing */
+    padding: 20px; /* Adjust padding for better spacing */
+    box-sizing: border-box;
+}
+
+@media screen and (min-width: 768px) { /* For tablet view and above */
+    .nav_bar_container {
+        flex-direction: row; /* Revert to row layout for tablet and above */
+        justify-content: space-between;
+    }
+}
+
+.logo {
+    margin-left: 20px;
+    cursor: pointer;
+}
+
+.flex_for_gap {
+    display: flex;
+    flex-direction: column; /* Change to column layout for mobile */
+    gap: 20px; /* Adjust gap for better spacing */
+}
+
+.for_gap {
+    list-style: none;
+    cursor: pointer;
+}
+
+@media screen and (min-width: 768px) { /* For tablet view and above */
+    .flex_for_gap {
+        flex-direction: row; /* Revert to row layout for tablet and above */
+    }
+}
+
+@media screen and (max-width: 480px) { /* For mobile view */
+    .logo {
+        margin-left: 0; /* Remove left margin for mobile */
+        margin-bottom: 10px; /* Add bottom margin for better spacing */
+        text-align: center; /* Center logo for mobile */
+    }
+
+    .for_gap {
+        text-align: center; /* Center items for mobile */
+    }
+}
+
+.token-section{
+    text-align: center;
+    align-items: center;
     background: #DB5C1E;
-    position: relative;
-    margin-bottom: 120px;
-    display: flex;
-    padding: 66px 296.3px 149px 0;
-    width: 1440px;
-    box-sizing: border-box;
+    background-size: cover;
+    height: auto;
+    padding: 20px;
+    width: 100%;
   }
-  .cat-dog-home-page .container-16 {
-    border-radius: 2px;
-    border: 2px solid #262221;
-    background: #FFFFFF;
-    position: relative;
+  .heading{
+    color: #fff;
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .token-supply-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    padding: 20px;
+  }
+
+  .para{
+    background: #fff;
+    background-size: auto;
+    color: #DB5C1E;
+    width: 10vw;
+    height: 5vh;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    }
+
+  .token-supply-piechart-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:space-evenly;
+  }
+
+  .pie-img{
+    margin-right: 20%;
+    width: 100%;
+    height: 100%;
+  }
+
+  .para-taxes{
+     margin-top: 20%;
+  }
+  
+  .boxes{
+    background-color: #fff;
+    height: 40vh;
+    width:20vw;
+  }
+
+.box_container{
+  flex-wrap: wrap;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+
+}
+
+.section-box-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.footer-para{
+  color: #fff;
+  font-size: 15px;
+}
+
+.pi-chart-mobil-view{
+  display: none;
+}
+
+
+
+.solflare{
+  background: transparent;
+  color: #fff;
+}
+
+.padding{
+  padding: 20px;
+}
+
+
+.step-icons{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 10px;
+  margin: 10%;
+  
+}
+#toggle-btn {
+  display: block;
+  background-color: transparent;
+  border: none;
+  color: rgb(98, 16, 16);
+  font-size: 24px;
+  cursor: pointer;
+  z-index: 1000; /* Ensure it's above other elements */
+  position: relative; /* Ensure positioning works as expected */
+}
+
+#toggle-btn:focus {
+  outline: none; /* Remove the default focus outline */
+}
+
+
+.dogy{
+  height: 100%;
+  width: 100%;
+}
+
+.icons-step1{
+  display: flex;
+  align-items: center;
+  margin: 10px;
+  margin-right: 10px;
+}
+
+
+
+.container_switch {
+  /* max-width: 400px; */
+  margin: 30px auto;
+}
+
+.box {
+  box-shadow: 0 5px 12px rgba(0,0,0,0.25);
+  background-color: #fff;
+  margin: 20px;
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.tab-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: flex;
+  position: relative;
+}
+
+/* tab list 會動的底線 */
+.tab-list::before {
+  content: '';
+  display: block;
+  height: 2px;
+  width: 25.333%;
+  position: absolute;
+  bottom: 0;
+  background-color: #aaa;
+  transition: .3s;
+}
+
+.tab-item {
+  flex: 1;
+  text-align: center;
+  transition: .3s;
+  opacity: 0.5;
+}
+
+.tab-toggle {
+  display: none;
+}
+
+.tab-content {
+  display: none;
+}
+.tab_content_flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.tab-toggle:nth-child(1):checked ~ .tab-list .tab-item:nth-child(1),
+.tab-toggle:nth-child(2):checked ~ .tab-list .tab-item:nth-child(2), 
+.tab-toggle:nth-child(3):checked ~ .tab-list .tab-item:nth-child(3), 
+.tab-toggle:nth-child(4):checked ~ .tab-list .tab-item:nth-child(4) {
+  opacity: 1;
+}
+
+/* tab bar 底線位移控制 */
+.tab-toggle:nth-child(2):checked ~ .tab-list::before {
+  transform: translateX(100%);
+}
+
+.tab-toggle:nth-child(3):checked ~ .tab-list::before {
+  transform: translateX(200%);
+}
+.tab-toggle:nth-child(4):checked ~ .tab-list::before {
+  transform: translateX(300%);
+}
+
+/* 內容顯示控制 */
+.tab-toggle:nth-child(1):checked ~ .tab-container .tab-content:nth-child(1),
+.tab-toggle:nth-child(2):checked ~ .tab-container .tab-content:nth-child(2),
+.tab-toggle:nth-child(3):checked ~ .tab-container .tab-content:nth-child(3),
+.tab-toggle:nth-child(4):checked ~ .tab-container .tab-content:nth-child(4) {
+  display: block;
+}
+
+.tab-trigger {
+  display: block;
+  padding: 10px 0;
+}
+
+.tab-container {
+  padding: 15px 30px;
+}
+
+
+
+
+
+
+/*----desktop */
+@media only screen and (min-width: 768px) {
+
+}
+
+/*----mobile----*/
+@media only screen and (max-width: 600px) {
+  .heading{
+    font-size: 38px;
+  }
+  .para{
+    font-size: 10px;
+    width: 15vh;
+    height: 4vh;
+    /* margin-left: 76px; */
+    margin-top: 20px;
     margin-bottom: 20px;
-    display: flex;
-    flex-direction: column;
-    padding: 21px 28px 9px 18px;
-    width: 'fit-content';
-    box-sizing: border-box;
+    text-align: center;
   }
-  .cat-dog-home-page .container-17 {
-    margin-left: 50.1px;
-    display: flex;
+
+
+   .rate{
+    font-size: 20px;
+    /* margin-left: 60px; */
+   }
+
+  .para-taxes{
+      font-size: 15px;
+      text-align: center;
+      /* margin-left: 40px; */
+      margin-top: 30px;
+  }
+
+  .boxes{
+    width: 25vw;
+    height: 10vh;
+  }
+
+.last-box{
+  display: none;
+}
+
+.pi-chart-mobil-view{
+  display: block;
+  margin: 10px;
+  width: 280px;
+  height: 280px;
+  
+}
+
+.pie-img{
+  display: none;
+}
+
+.token-supply-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+.section-box-container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.box_container{
+  display: flex;
+  margin-bottom: 10px;
+  padding: 10px;
+}
+
+.icons{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+  padding: 20px;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+
+
+.address-input{
+   position: relative;
+   margin-top: -40px;
+   padding: 10px;
+}
+}
+.nav_links {
+  display: none;
+}
+
+/* Styling for navigation links */
+.nav_links ul {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.nav_links li {
+  margin-right: 20px;
+}
+.h1_how_to_buy{
+  color: white;
+  font-weight: 500;
+  font-size: 30px;
+  text-transform: uppercase;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.nav_links a {
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+  font-size: 18px; /* Adjust font size as needed */
+}
+
+/* Show the menu toggle button for smaller screens */
+@media (max-width: 768px) {
+  .menu-toggle {
+      display: block;
+  }
+
+  .nav_links {
+      display: none;
+  }
+
+  .show .nav_links {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #333; /* Background color for the mobile navigation menu */
+      position: absolute;
+      top: 60px; /* Adjust this value as needed */
+      left: 0;
+      right: 0;
+      z-index: 999;
+  }
+
+  .nav_links li {
+      margin: 10px 0;
+  }
+}
+
+.show {
+  display: block;
+}
+
+.buynow{
+  background-color: #6246c7;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.h1_buy{
+    /* position: absolute; */
+    /* width: 280px; */
+    /* height: 55px; */
+    left: 750px;
+    /* top: 40px; */
+    font-family: 'Gloria Hallelujah';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 64px;
+    line-height: 127px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #f8f1f1;
+    }
+    .a1{
+      display: flex;
     flex-direction: row;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-18 {
-    margin: 47px 0;
-    display: flex;
-    flex-direction: column;
     align-items: center;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-19 {
-    box-shadow: 6px 6px 0px 0px #262221;
-    border-radius: 2px;
-    border: 2px solid #262221;
-    background: #FFFFFF;
-    position: relative;
-    margin-right: 98px;
-    display: flex;
-    padding: 22px 22px 61px 22px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-20 {
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    width: 240px;
-    height: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-21 {
-    margin: 0 96px 16px 96px;
-    display: flex;
-    flex-direction: row;
-    column-gap: 16px;
-    width: 1248px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-22 {
-    border-radius: 2px;
-    border: 2px solid #FFFFFF;
-    position: absolute;
-    left: 50%;
-    bottom: 1px;
-    translate: -50% 0;
-    display: flex;
-    padding: 17px 16px 15px 16px;
-    width: 484px;
-    height: 64px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-23 {
-    margin-bottom: 53px;
-    display: flex;
-    flex-direction: row;
-    column-gap: 88.7px;
-    width: 1440px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-24 {
-    margin: 0 106px 83px 96px;
-    display: flex;
-    flex-direction: row;
-    width: 'fit-content';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-25 {
-    border-right: 2px solid rgba(255, 255, 255, 0.2);
-    border-bottom: 2px solid rgba(255, 255, 255, 0.2);
-    position: relative;
-    margin-right: 173px;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    padding-bottom: 20px;
-    width: 567px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-26 {
-    border-radius: 1px;
-    background: #FFFFFF;
-    position: relative;
-    margin-bottom: 8px;
-    display: flex;
-    padding: 8px;
-    width: 48px;
-    height: 48px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-27 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-28 {
-    border-radius: 2px;
-    border: 2px solid #FFFFFF;
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    padding: 8px 8px 0 24px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-29 {
-    margin: 54px 0 20px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-30 {
-    border-radius: 33px;
-    background: rgba(38, 34, 33, 0.1);
-    position: relative;
-    margin: 0 1px 20px 0;
-    display: flex;
-    align-self: center;
-    padding: 21px 0;
-    width: 64px;
-    height: 64px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-31 {
-    border-radius: 2px;
-    border: 2px solid #FFFFFF;
-    position: relative;
-    display: flex;
-    flex-direction: row;
-    padding: 8px 8px 0 24px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-32 {
-    margin: 0 119px 120px 119px;
-    display: flex;
-    flex-direction: row;
-    align-self: flex-start;
-    width: ''fit-content'';
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-33 {
-    border-left: 2px solid rgba(255, 255, 255, 0.2);
-    border-top: 2px solid rgba(255, 255, 255, 0.2);
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-end;
-    align-items: center;
-    padding-bottom: 20px;
-    width: 567px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-34 {
-    position: relative;
-    display: flex;
-    flex-direction: column;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-35 {
-    border-radius: 2px;
-    background: #262221;
-    position: relative;
-    display: flex;
-    padding: 22px 1px 4px 0;
-    width: 509px;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-36 {
-    box-shadow: 6px 6px 0px 0px #262221;
-    border-radius: 2px;
-    border: 2px solid #262221;
-    background: #FFFFFF;
-    position: relative;
-    margin: 0 28px 132px 28px;
-    display: flex;
-    flex-direction: row;
     justify-content: space-between;
-    padding: 31px 40.1px 9px 0;
-    width: 1384px;
+    }
+    
+    .div1 {
     box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-37 {
-    position: relative;
+    width: 553px;
+    height: 633px;
+    left: 200px;
+    background: #FFFFFF;
+    border: 2px solid #262221;
+    box-shadow: 5px 5px 0px #262221;
+    border-radius: 3px;
+    
+    }
+    
+    #cat1 {
+      width: 140px;
+    height: 33px;
+    color: #262221;
+    margin-left: 40px;
+    margin-top:20px;
+    font-size: 20px;
+    }
+    
+    #img1{
+      border: 1px solid #0f0e0e;
+      border-radius: 50%;
+      align-content: center;
+      margin-top:11px;
+      height: 30px;
+    }
+    
+    .div3 {
+      
+      box-sizing: border-box;
+      margin-top:20px;
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: flex-end;
+      border-radius: 100px;
+      width: 75px;
+      height: 30px;
+      gap: 7px;
+    
+    }
+    .div4{
+      box-sizing: border-box;
+      
+      align-items: center;
+      display: flex;
+      flex-direction: row;
+      border-radius: 100px;
+      width: 75px;
+      height: 30px;
+      gap: 4px;
+      border: 1px solid #0f0e0e;
+    }
+    
+    
+    #bt1{
+      border-radius: 100px;
+      width: 129px;
+    height: 32px;
+      background-color:  #0f0e0e;
+      color: #FFFFFF;
+    }
+.a2{   
+    box-sizing: border-box;
+    /* width: 525px; */
+    height: 112px;
+    left: 10px;
+    background: #FFFFFF;   
+    border: 2px solid #262221;  
+    border-radius: 1px;
+    margin-top: 10px;
+    padding: 10px;
+}
+.footer_end{
+  margin-top: 15px;
+}
+.div5 , .div7 ,.div8, .div10{
+      gap: 10px;
+      display: flex;
+      flex-direction: row;
+}
+.drop1{
+      width: 30px;
+    height: 30px;
+}
+.div6 , .div9{
+      display: flex;
+      justify-content: end;
+}
+.a3{  
+      box-sizing: border-box;
+      /* width: 525px; */
+      height: 112px;
+      left: 10px;
+      background: #FFFFFF;
+      border: 2px solid #262221;
+      border-radius: 1px;
+      margin-bottom: 10px;
+      padding: 10px;
+}
+   
+.drop2{
+      width: 30px;
+      height: 30px; 
+    background: #0f0e0e; 
+    border: 2px solid #262221;
+    border-radius: 50%;
+}
+.dogy_fellow{
+      margin-top: 50px;
+}   
+.arrow{
+      display: flex;
+      justify-content: center;
+      margin-top: 90px;
+      margin-bottom: 90px;
+      margin-left: 225px;
+      background-color: #9b9494;
+      width:64px;
+      height:64px;
+      border-radius: 50%;
+      align-items: center;  
+}
+    
+#arr1{
+      width:32px;
+     height:32px;
+     /* align-items: center; */
+     display: flex;
+     margin-top: 10px;   
+}
+    
+    /* Rectangle 80 */
+.btn2{
+    font-size: medium;
+    width: 100%;
+    height: 50px;
+    left: 10px;
+    background: #0f0e0e;
+    display: flex;
+    justify-content: center;
+    background-color:  #0f0e0e;
+    color: #FFFFFF;
+}
+.catdog{
+      /* CATDOG 10 */ 
+    width: 484px;
+    height: 379px;
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
-    box-sizing: border-box;
-  }
-  .cat-dog-home-page .container-38 {
-    position: relative;
+    justify-content: space-around;
+    margin-top: 40px;
+    margin-left: 20px;
+}
+.div1_catdog_flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.foot-flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.token-section{
+  margin-top: 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+@media only screen and (max-width: 600px) {
+  .left_container{
     display: flex;
-    padding: 8.5px 7.3px 8.5px 8.5px;
-    width: 32px;
-    height: 32px;
-    box-sizing: border-box;
+    flex-direction: column;
+    height: 350px;
+    /* gap: 0px; */
   }
+  .inner_container_2{
+    display: flex;
+    flex-direction: column;
+  }
+  .paragraph_view{
+    display: none;
+  }
+  .left_dog_css{
+    height: 217px;
+    width: 158px;
+  }
+  .img-text-img + .paragraph_view {
+    display: block;
+  }
+  .div1_catdog_flex{
+    display: flex;
+    flex-direction: column;
+    /* gap: 10px; */
+  }
+  .dogy_fellow_size{
+    height: 250px;
+    width: 300px;
+  }
+  .foot-flex{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-end{
+    text-align: center;
+  }
+  .footer-para{
+    text-align: center;
+  }
+  .pie_center{
+    text-align: center;
+  }
+  .tab_content_flex{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+   align-items: center;
+  }
+  .dogy{
+    height: 250px;
+    width: 300px;
+  }
+} 
+
+.nav_links a:hover {
+  /* background-color: #555; Background color on hover */
+  border-radius: 20px;
+  border: 3px #7057cc solid; /* Optional: Add some border radius for rounded corners */
+  padding: 10px;
+}
+
