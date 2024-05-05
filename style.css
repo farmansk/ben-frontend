@@ -330,12 +330,13 @@ span{
 .nav_bar_container {
     background-color: #fff;
     display: flex;
-    flex-direction: column; /* Change to column layout for mobile */
+    /* flex-direction: column; Change to column layout for mobile */
+    justify-content: space-between;
     box-shadow: 6px 6px 0px 0px #262221;
     border-radius: 2px;
     border: 2px solid #262221;
     position: relative;
-    margin: 0 20px 20px; /* Adjust margin for better spacing */
+    margin: 20px 20px 20px; /* Adjust margin for better spacing */
     padding: 20px; /* Adjust padding for better spacing */
     box-sizing: border-box;
 }
