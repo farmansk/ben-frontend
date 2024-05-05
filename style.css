@@ -969,6 +969,12 @@ span{
     height: 350px;
     /* gap: 0px; */
   }
+  .icons_css{
+    column-gap: 20px;
+  }
+  .heading_h1, .para_p1{
+    margin-left: 20px;
+  }
   .inner_container_2{
     display: flex;
     flex-direction: column;
@@ -984,6 +990,8 @@ span{
   }
   .mobile_paragraph_view{
     margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
     font-size: 15px;
     color: white;
   }
