@@ -1,4 +1,5 @@
 *{
+    box-sizing: border-box;
     margin: 0;
     font-family: 'Gloria Hallelujah';
     padding: 0;
@@ -52,7 +53,8 @@ body{
     display: flex;
     padding-top: 15px;
     box-sizing: border-box;
-    min-width: 400px;
+    justify-content: center;
+    align-items: center;
 }
 .container-26{
     border-radius: 1px;
@@ -92,7 +94,7 @@ body{
     border-radius: 100px;
     background: #FFFFFF;
     position: absolute;
-    left: 24px;
+    left: 15%;
     top: 0px;
     display: flex;
     padding: 10px 12.3px 0 12.3px;
@@ -464,17 +466,10 @@ span{
   display: none;
 }
 
-
-
 .solflare{
   background: transparent;
   color: #fff;
 }
-
-.padding{
-  /* padding: 20px; */
-}
-
 
 .step-icons{
   display: flex;
@@ -982,7 +977,8 @@ span{
     display: none;
   }
   .left_dog_css{
-    height: 217px;
+    width: 100%;
+    height: 257px;
   }
   .img-text-img + .paragraph_view {
     display: block;
@@ -994,7 +990,7 @@ span{
   }
   .dogy_fellow_size{
     height: 250px;
-    width: 300px;
+    /* width: 300px; */
   }
   .foot-flex{
     display: flex;
@@ -1069,18 +1065,21 @@ span{
 }
 .diff_container {
   background-color: #e86183;
-  width:max-content;
+  width: auto;
   background-size: cover;
   padding: 0;
-}
-.left_dog_css {
-  height: 217px;
 }
 .mobile-view{
   display: flex;
   flex-direction: column;
   justify-content: center;
   margin-left: 20px;
+}
+.top_line{
+  margin: 0;
+}
+.img_doggy{
+  width: 80%;
 }
 .dogy_fellow {
   margin-top: 50px;
@@ -1116,17 +1115,19 @@ span{
   flex-direction: column;
 }
 .div1{
-  width: 480px;
+  width: 75%;
+  margin-left: 10%;
 }
 .catdog{
   display: flex;
   flex-direction: column;
   align-items: center;
+  margin-left: 0;
 }
 .image_dog{
   /* min-width: 500px; */
   /* height: 389px; */
-  width: auto;
+  width: 100%;
   /* margin-left: 20px; */
   margin-top: 20px;
 }
@@ -1164,8 +1165,11 @@ span{
   margin-top: 20px;
   
 }
+.solanalogo{
+  width: 100%;
+}
 .container_switch{
-  width: 500px;
+  width: 100%;
 }
 }
 
