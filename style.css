@@ -618,9 +618,9 @@ span{
     font-size: 38px;
   }
   .para{
-    font-size: 10px;
+    /* font-size: 10px; */
     width: 15vh;
-    height: 4vh;
+    height: 3vh;
     /* margin-left: 76px; */
     margin-top: 20px;
     margin-bottom: 20px;
