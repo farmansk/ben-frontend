@@ -1053,6 +1053,12 @@ span{
   padding: 10px;
 }
 
+.horizontail-line{
+  margin-top: 20px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
 @media only screen and (max-width: 600px){
   .section3 {
     /* height: auto; */
@@ -1150,10 +1156,6 @@ span{
   justify-content: center; /* Center horizontally */
   align-items: center; /* Center vertically */
 }
-.horizontail-line{
-  margin-left: 20px;
-  left: 100px;
-}
 .h1_how_to_buy{
   color: white;
   font-weight: 600;
@@ -1171,7 +1173,8 @@ span{
 .horizontail-line{
   width: 500px;
   margin-top: 20px;
-  
+  margin-left: auto;
+  margin-right: auto;
 }
 .solanalogo{
   width: 100%;
@@ -1179,10 +1182,4 @@ span{
 .container_switch{
   width: 90%;
 }
-}
-
-.horizontail-line{
-  margin-top: 20px;
-  margin-left: 30px;
-  margin-right: 30px;
 }
