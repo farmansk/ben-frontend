@@ -24,7 +24,7 @@ body{
     margin-bottom: 56px;
     display: flex;
     flex-direction: row;
-    column-gap: 32px;
+    column-gap: 20px;
     box-sizing: border-box;
     max-width: 400px;
     margin-top: 20px;
@@ -969,9 +969,6 @@ span{
     flex-direction: column;
     height: 350px;
     /* gap: 0px; */
-  }
-  .icons_css{
-    column-gap: 20px;
   }
   .inner_container_2{
     display: flex;
