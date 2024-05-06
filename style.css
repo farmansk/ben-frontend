@@ -967,7 +967,7 @@ span{
   .left_container{
     display: flex;
     flex-direction: column;
-    height: 450px;
+    /* height: 450px; */
     font-size: 20px;
     /* gap: 0px; */
   }
@@ -1065,7 +1065,7 @@ span{
     /* height: auto; */
     padding: 10px;
     /* width: px; */
-    height: 400px;
+    height: 350px;
 
   }
   .h1_section4 {
