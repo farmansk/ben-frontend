@@ -167,8 +167,13 @@ body{
 button{
   cursor: pointer;
 }
-.icons img{
-  cursor: pointer;
+.icons{
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  img{
+    cursor: pointer;
+  }
 }
 .paragraph_view p{
     margin-top: 20px;
